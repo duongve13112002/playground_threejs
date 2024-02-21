@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Blender and Three.js Playground repository! This project is a platform for creating interactive 3D scenes by combining the power of Blender and Three.js. Whether you are a 3D artist, a web developer, or someone interested in exploring the capabilities of Blender and Three.js, this playground provides a creative space for experimentation and collaboration.
+Welcome to my repository! This project is a platform for creating interactive 3D scenes by combining the power of Blender and Three.js. Whether you are a 3D artist, a web developer, or someone interested in exploring the capabilities of Blender and Three.js, this playground provides a creative space for experimentation and collaboration.
 
 ## Features
 
